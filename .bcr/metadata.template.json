@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/myorg/rules_mylang",
+  "homepage": "https://github.com/claydiffrient/rules_cem",
   "maintainers": [],
-  "repository": ["github:myorg/rules_mylang"],
+  "repository": ["github:claydiffrient/rules_cem"],
   "versions": [],
   "yanked_versions": {}
 }
